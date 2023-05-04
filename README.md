@@ -16,7 +16,7 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 * `debug` compiles the source code and generates an executable, including debugging symbols
 * `clean` deletes the `build/` directory, including all of the build artifacts
 
-## Instructions
+## Get Started
 
 1. Clone the project repository
 
