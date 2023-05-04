@@ -18,7 +18,7 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 
 ## Get Started
 
-1. Clone the project repository
+1. Clone the project repository: `https://github.com/1neskk/SystemMonitor.git`
 
 2. Build the project: `make build`
 
