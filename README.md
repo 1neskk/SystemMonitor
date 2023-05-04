@@ -1,5 +1,7 @@
 # System Monitor
 
+![image](https://user-images.githubusercontent.com/113075816/236335603-ff2f3a38-1767-4773-a704-60bb08a6b1aa.png)
+
 ## Dependencies 
 
 Install ncurses within your own Linux environment: `sudo apt install libncurses5-dev libncursesw5-dev`
