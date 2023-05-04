@@ -6,7 +6,7 @@ This project is a system monitor similar to htop. It is a command-line tool that
 
 ## Dependencies 
 
-Install the ncurses library within your own Linux environment: `sudo apt install libncurses5-dev libncursesw5-dev`
+Install the ncurses library within your Linux environment: `sudo apt install libncurses5-dev libncursesw5-dev`
 
 You also need `cmake` and `make` installed 
 
